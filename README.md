@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Stagkos2034](https://github.com/Stagkos2034)
 
-- 📫 How to reach me **aristeidisstagkos21203@gmail.com**
+- 📫 How to reach me **astagkos21a@amcstudent.edu.gr**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/aristeidis-stagkos-295529271/](https://www.linkedin.com/in/aristeidis-stagkos-295529271/)
 
