@@ -5,7 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stagkos2034" alt="stagkos2034" /></a> </p>
 
-<p align="center">Currently a loner developer with very few partners if you want contact me in Linkedin</p>
+<p align="center">Currently a loner developer with very few partners if you want contact me in Linkedin</p><br>
+<p align="center">Do not forget to AMP IT UP</p><br>
 
 
 - 🔭 I’m currently studying in a College **Metropolitan College**
