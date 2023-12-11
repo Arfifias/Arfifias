@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aristeidis Stagkos</h1>
 <h3 align="center">10x Back End Developer/Cyber Security White Ethical Hat Hacker</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=stagkos2034&label=Profile%20views&color=0e75b6&style=flat" alt="stagkos2034" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stagkos2034" alt="stagkos2034" /></a> </p>
 
 <p align="center">Currently a loner developer with very few partners if you want contact me in Linkedin</p><br>
