@@ -3,8 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stagkos2034" alt="stagkos2034" /></a></p>
 
+<img align = "center" scr = "icegif-505.gif" width = 600px height = 400px>
+
 <p align="center">Currently a loner developer with very few partners if you want contact me in Linkedin</p><br><br>
-<a href="icegif-505.gif" target="blank"
 <p align="center">Do not forget to AMP IT UP</p><br>
 
 
@@ -38,4 +39,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stagkos2034&show_icons=true&locale=en&layout=compact" alt="stagkos2034"  width = "100%"/></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stagkos2034&show_icons=true&locale=en" alt="stagkos2034" width = "100%"/></p>
+
 
