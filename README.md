@@ -9,6 +9,10 @@
 <p align="center">Do not forget to AMP IT UP</p><br>
 
 
+![icegif-505](https://github.com/Stagkos2034/Stagkos2034/assets/115788364/d174ae61-c310-4650-a478-3530260b3237)
+
+<br>
+
 - 🔭 I’m currently studying in a College **Metropolitan College**
 
 - 👯 I’m looking to collaborate at any time **With any project**
