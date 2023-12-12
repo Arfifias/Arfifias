@@ -13,7 +13,7 @@
 
 
 
-- 🔭 I’m currently studying in a College **Metropolitan College**
+- 🔭 I’m currently studying in a College **Metropolitan College** and learning python and command prompt please enjou :)
 
 - 👯 I’m looking to collaborate at any time **With any project**
 
