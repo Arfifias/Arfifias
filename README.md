@@ -21,7 +21,7 @@
 
 - 🤝 I’m looking to help with project ideas **If somebody needs ideas he or she should contact me**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Stagkos2034](https://github.com/Stagkos2034)
+- 👨‍💻 All of my projects are available at [https://github.com/Arfifias](https://github.com/Stagkos2034)
 
 - 📫 How to reach me **astagkos21a@amcstudent.edu.gr**
 
