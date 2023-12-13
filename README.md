@@ -9,7 +9,7 @@
 <p align="center">Do not forget to AMP IT UP</p><br>
 
 
-![icegif-505](https://github.com/Stagkos2034/Stagkos2034/assets/115788364/d174ae61-c310-4650-a478-3530260b3237)             ![ezgif com-resize](https://github.com/Arfifias/Arfifias/assets/115788364/1a5147fa-12ee-4616-9d42-7720dab9cc4c)
+![icegif-505](https://github.com/Stagkos2034/Stagkos2034/assets/115788364/d174ae61-c310-4650-a478-3530260b3237)![ezgif com-resize](https://github.com/Arfifias/Arfifias/assets/115788364/1a5147fa-12ee-4616-9d42-7720dab9cc4c)
 <br>
 
 
