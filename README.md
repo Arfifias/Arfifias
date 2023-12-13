@@ -8,9 +8,7 @@
 <p align="center">Currently a loner developer with very few partners if you want contact me in Linkedin</p><br><br>
 <p align="center">Do not forget to AMP IT UP</p><br>
 
-![ezgif com-resize (1)](https://github.com/Arfifias/Arfifias/assets/115788364/fb22da6d-e6fc-44ed-9a9e-d5663918742c)![ezgif com-resize (3)](https://github.com/Arfifias/Arfifias/assets/115788364/d13a8ee2-1cef-4968-984f-94b6f4e80c4d)![ezgif com-resize (4)](https://github.com/Arfifias/Arfifias/assets/115788364/07a4ec69-ac52-4b9b-83c5-9fa22cb31506)<br>
-
-![hacker-1400x8001](https://github.com/Arfifias/Arfifias/assets/115788364/7f981241-8e6e-4c37-8df2-6dffbc3e350a)
+![ezgif com-resize (1)](https://github.com/Arfifias/Arfifias/assets/115788364/fb22da6d-e6fc-44ed-9a9e-d5663918742c)![ezgif com-resize (3)](https://github.com/Arfifias/Arfifias/assets/115788364/d13a8ee2-1cef-4968-984f-94b6f4e80c4d)![ezgif com-resize (4)](https://github.com/Arfifias/Arfifias/assets/115788364/07a4ec69-ac52-4b9b-83c5-9fa22cb31506)![hacker-1400x8001](https://github.com/Arfifias/Arfifias/assets/115788364/7f981241-8e6e-4c37-8df2-6dffbc3e350a)<br>
 
 
 - 🔭 I’m currently studying in a College **Metropolitan College** and learning python and command prompt please enjoy :)
