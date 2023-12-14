@@ -43,6 +43,6 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arfifias&show_icons=true&locale=en" alt="stagkos2034" width = "100%"/></p>
+
 
 
