@@ -6,8 +6,6 @@
 
 ![UEL Poster (1)](https://github.com/Arfifias/Arfifias/assets/115788364/8c28802a-3758-483d-ba1b-4a70a9575185)
 
-![d481f3c72e283309071f79e01b05c06d](https://github.com/Arfifias/Arfifias/assets/115788364/f92c18de-59ac-48f9-9c85-3727aea8f286)
-
 
 <p align="center">Currently a loner developer with very few partners if you want contact me in Linkedin</p><br><br>
 <p align="center">Do not forget to AMP IT UP</p><br>
