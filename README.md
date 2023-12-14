@@ -7,8 +7,8 @@
 
 <p align="center">Currently a loner developer with very few partners if you want contact me in Linkedin</p><br><br>
 <p align="center">Do not forget to AMP IT UP</p><br>
+![ezgif com-resize (8)](https://github.com/Arfifias/Arfifias/assets/115788364/110f1467-9dd8-4d32-b51e-cb4fb45ad0d4)
 
-![d481f3c72e283309071f79e01b05c06d](https://github.com/Arfifias/Arfifias/assets/115788364/5edd79b8-de99-4370-b7cf-2dde2c59a082)
 <br>
 
 
