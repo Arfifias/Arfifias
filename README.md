@@ -8,11 +8,9 @@
 <p align="center">Currently a loner developer with very few partners if you want contact me in Linkedin</p><br><br>
 <p align="center">Do not forget to AMP IT UP</p><br>
 
-![ezgif com-resize (1)](https://github.com/Arfifias/Arfifias/assets/115788364/fb22da6d-e6fc-44ed-9a9e-d5663918742c)![ezgif com-resize (3)](https://github.com/Arfifias/Arfifias/assets/115788364/d13a8ee2-1cef-4968-984f-94b6f4e80c4d)![ezgif com-resize (7)](https://github.com/Arfifias/Arfifias/assets/115788364/24587bc4-eb24-4e32-a39e-8af97ccdfafe)<br>
+![d481f3c72e283309071f79e01b05c06d](https://github.com/Arfifias/Arfifias/assets/115788364/5edd79b8-de99-4370-b7cf-2dde2c59a082)
+<br>
 
-
-
-![hacker-1400x8001](https://github.com/Arfifias/Arfifias/assets/115788364/9cab5799-3739-489b-82e4-42cd79209517)<br>
 
 
 - 🔭 I’m currently studying in a College **Metropolitan College** and learning python and command prompt please enjoy :)
