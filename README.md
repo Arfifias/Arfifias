@@ -3,11 +3,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arfifias" alt="stagkos2034" /></a></p>
 
+![Kollegio Poster](https://github.com/Arfifias/Arfifias/assets/115788364/17c0d154-5574-4bbc-987c-95a3b6a48130)
 
 
 <p align="center">Currently a loner developer with very few partners if you want contact me in Linkedin</p><br><br>
 <p align="center">Do not forget to AMP IT UP</p><br>
-![ezgif com-resize (8)](https://github.com/Arfifias/Arfifias/assets/115788364/110f1467-9dd8-4d32-b51e-cb4fb45ad0d4)
+
 
 <br>
 
