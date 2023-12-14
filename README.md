@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arfifias" alt="stagkos2034" /></a></p>
 
-![Kollegio Poster](https://github.com/Arfifias/Arfifias/assets/115788364/17c0d154-5574-4bbc-987c-95a3b6a48130)![UEL Poster](https://github.com/Arfifias/Arfifias/assets/115788364/a206b280-0493-4eca-b9d8-607c0ddefd7b)
+![UEL Poster](https://github.com/Arfifias/Arfifias/assets/115788364/a206b280-0493-4eca-b9d8-607c0ddefd7b)
 )
 
 
