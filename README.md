@@ -28,7 +28,7 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/aristeidis-stagkos-295529271/](https://www.linkedin.com/in/aristeidis-stagkos-295529271/)
 
 - ⚡ Fun fact **I enjoy writing code**<br>
-- By the way I would like to make friends in coding so apart from projects please contact me because I am alone in this part of my life in other means my Job!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+- By the way I would like to make friends in coding so apart from projects please contact me because I am alone in this part of my life in other means my Job!!!
  <br>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -44,6 +44,11 @@
 <a href="https://instagram.com/s.t.a.g.k.o.s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s.t.a.g.k.o.s" height="30" width="40" /></a>
 <a href="https://discord.gg/stagkos21203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="stagkos21203" height="30" width="40" /></a>
 </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arfifias&show_icons=true&locale=en&layout=compact" alt="arfifias" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arfifias&show_icons=true&locale=en" alt="arfifias" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arfifias&" alt="arfifias" /></p>
 
 
 
