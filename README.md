@@ -46,7 +46,7 @@
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arfifias&show_icons=true&locale=en&layout=compact" alt="arfifias" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arfifias&show_icons=true&locale=en" alt="arfifias" height = 200px/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arfifias&show_icons=true&locale=en" alt="arfifias"/></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arfifias&" alt="arfifias" /></p>
 
