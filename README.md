@@ -46,7 +46,7 @@
 
 [![Arfifias's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arfifias)](https://github.com/Arfifias/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arfifias&layout=donut)](https://github.com/Arfifias/github-readme-stats)<br><br>
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=arfifias)](https://github.com/Arfifias/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
