@@ -45,7 +45,8 @@
 <a href="https://discord.gg/stagkos21203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="stagkos21203" height="30" width="40" /></a><br>
 
 [![Arfifias's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arfifias)](https://github.com/Arfifias/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arfifias&layout=donut)](https://github.com/Arfifias/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arfifias&layout=donut)](https://github.com/Arfifias/github-readme-stats)<br><br>
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Arfifias)](https://github.com/Arfifias/github-readme-stats)
 
 
 
