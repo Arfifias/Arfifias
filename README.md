@@ -44,9 +44,10 @@
 <a href="https://instagram.com/s.t.a.g.k.o.s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s.t.a.g.k.o.s" height="30" width="40" /></a>
 <a href="https://discord.gg/stagkos21203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="stagkos21203" height="30" width="40" /></a><br>
 
-[![Arfifias' GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Arfifias&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Arfifias/github-readme-stats#gh-dark-mode-only)<br><hr>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arfifias&layout=donut-vertical)](https://github.com/Arfifias/github-readme-stats)![d481f3c72e283309071f79e01b05c06d](https://github.com/Arfifias/Arfifias/assets/115788364/69ed655c-c025-4bdb-ba6d-ea719a138281)
-
+[![Arfifias' GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Arfifias&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Arfifias/github-readme-stats#gh-dark-mode-only)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arfifias&layout=donut-vertical)](https://github.com/Arfifias/github-readme-stats)<br><hr>
+![ezgif com-resize (1)](https://github.com/Arfifias/Arfifias/assets/115788364/f8cea252-71e5-4df4-82e7-677207e8f212)
+![ezgif com-resize (3)](https://github.com/Arfifias/Arfifias/assets/115788364/e4666cac-f77f-4806-afb4-216feef562d5)
+![ezgif com-resize (7)](https://github.com/Arfifias/Arfifias/assets/115788364/d7f9f0b2-557a-4ed0-8e4f-0f438d18b54b)
 
 
 
