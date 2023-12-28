@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aristeidis Stagkos</h1>
-<h3 align="center">10x Back End Developer-Scientist(From Greece)-GUI DEV</h3>
+<h3 align="center">Game Developer(Back End Dev,GUI and Unreal Engine)</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arfifias" alt="stagkos2034" /></a></p>
 
-
-![UEL Poster (1)](https://github.com/Arfifias/Arfifias/assets/115788364/8c28802a-3758-483d-ba1b-4a70a9575185)
 
 
 <p align="center">Currently a loner developer with very few partners if you want contact me in Linkedin</p><br><br>
