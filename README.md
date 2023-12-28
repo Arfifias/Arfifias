@@ -47,9 +47,7 @@
 [![Arfifias' GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Arfifias&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Arfifias/github-readme-stats#gh-dark-mode-only)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arfifias&layout=donut-vertical)](https://github.com/Arfifias/github-readme-stats)<br><hr>
 ![ezgif com-resize (1)](https://github.com/Arfifias/Arfifias/assets/115788364/f8cea252-71e5-4df4-82e7-677207e8f212)
 ![ezgif com-resize (3)](https://github.com/Arfifias/Arfifias/assets/115788364/e4666cac-f77f-4806-afb4-216feef562d5)
-![ezgif com-resize (7)](https://github.com/Arfifias/Arfifias/assets/115788364/d7f9f0b2-557a-4ed0-8e4f-0f438d18b54b)
-
-
+![ezgif com-resize (6)](https://github.com/Arfifias/Arfifias/assets/115788364/1fb0b562-b8f1-4135-809e-6164c85cc56c)
 
 
 
