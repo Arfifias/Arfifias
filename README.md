@@ -26,7 +26,8 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/aristeidis-stagkos-295529271/](https://www.linkedin.com/in/aristeidis-stagkos-295529271/)
 
 - ⚡ Fun fact **I enjoy writing code**<br>
-- By the way I would like to make friends in coding so apart from projects please contact me because I am alone in this part of my life in other means my Job!!!
+- By the way I would like to make friends in coding so apart from projects please contact me because I am alone in this part of my life in other means my job so please follow me and contact me!!!
+- I am currently learning C++ for Unreal Engine!!!
  <br>
 
 <h3 align="left">Languages and Tools:</h3>
