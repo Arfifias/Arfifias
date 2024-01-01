@@ -22,7 +22,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/Arfifias](https://github.com/Arfifias)
 
 - 📫 How to reach me **astagkos21a@amcstudent.edu.gr**
-- Join my discord server[https://discord.com](https://discord.gg/4DBaqX9Z)
+- Join my discord server [https://discord.com](https://discord.gg/4DBaqX9Z)
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/aristeidis-stagkos-295529271/](https://www.linkedin.com/in/aristeidis-stagkos-295529271/)
 
