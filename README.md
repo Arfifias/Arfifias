@@ -9,6 +9,9 @@
 <p align="center">Do not forget to AMP IT UP</p><br>
 
 
+![Path](https://github.com/Arfifias/Arfifias/assets/115788364/aa5c9574-afe6-480b-b9bc-f5a8344afb3b)
+
+
 <br>
 
 <p>As a young adult and a developer,my main motive is to make a game that it will create a new genre of games.From a young age I started playing games and in primary school my teacher in 4th grade showed me in a lesson some lines of code in Java.
