@@ -15,7 +15,7 @@
 <br>
 
 <p>As a young adult and a developer,my main motive is to make a game that it will create a new genre of games.From a young age I started playing games and in primary school my teacher in 4th grade showed me in a lesson some lines of code in Java.Back in the day it was hard for me to understand lines of code because I was too young and my mother tongue was not english it was actually Greek.But as time went by I learnt to code and I also I learnt english to the maximum level possible.
-In combination with that incident with the code which as a child intrigued me and video games my dream was to become a great game developer.That's why I chose this road in my crossroads of my future career.And I finally accomplished my goal after 15een years(In my early 20s).</p><br>
+In combination with that incident with the code which as a child intrigued me and video games my dream was to become a great game developer.That's why I chose this road in my crossroads of my future career.And I finally accomplished my goal after 15een years(in my early 20s).</p><br>
 
 
 
