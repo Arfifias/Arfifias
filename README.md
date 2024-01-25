@@ -19,7 +19,7 @@ In combination with that incident with the code which as a child intrigued me an
 
 
 
-- 🔭 I’m currently studying in a College **Metropolitan College** and learning python and command prompt please enjoy :)
+- 🔭 I’m currently studying in a College,**Metropolitan College** to be spesific and learning python,command prompt and C++ please enjoy :)
 
 - 👯 I’m looking to collaborate at any time **With any project**
 
