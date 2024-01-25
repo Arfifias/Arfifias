@@ -9,9 +9,6 @@
 <p align="center">Do not forget to AMP IT UP</p><br>
 
 
-![Stagkos](https://github.com/Arfifias/Arfifias/assets/115788364/7d741c7d-493b-44a7-bd0f-e9c6da88c2e3)
-
-
 
 <br>
 
