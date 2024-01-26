@@ -47,7 +47,7 @@ In combination with that incident with the code which as a child intrigued me an
 <a href="https://fb.com/aristeidis stagkos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aristeidis stagkos" height="30" width="40" /></a>
 <a href="https://instagram.com/aristeidis_stagkos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s.t.a.g.k.o.s" height="30" width="40" /></a><br><b><br><hr>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arfifias&layout=donut)](https://github.com/Arfifias/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arfifias&layout=pie)](https://github.com/Arfifias/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arfifias&layout=donut-vertical)](https://github.com/Arfifias/github-readme-stats)
  
  <hr>
