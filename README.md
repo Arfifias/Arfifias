@@ -45,7 +45,12 @@ In combination with that incident with the code which as a child intrigued me an
 <p align="left">
 <a href="https://linkedin.com/in/aristeidis stagkos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aristeidis stagkos" height="30" width="40" /></a>
 <a href="https://fb.com/aristeidis stagkos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aristeidis stagkos" height="30" width="40" /></a>
-<a href="https://instagram.com/aristeidis_stagkos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s.t.a.g.k.o.s" height="30" width="40" /></a><br><br><hr>
+<a href="https://instagram.com/aristeidis_stagkos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s.t.a.g.k.o.s" height="30" width="40" /></a><br><b><br><hr>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arfifias&layout=donut)](https://github.com/Arfifias/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arfifias&layout=donut-vertical)](https://github.com/Arfifias/github-readme-stats)
+ 
+ <hr>
  
 ![ezgif com-resize (1)](https://github.com/Arfifias/Arfifias/assets/115788364/f8cea252-71e5-4df4-82e7-677207e8f212)
 ![ezgif com-resize (3)](https://github.com/Arfifias/Arfifias/assets/115788364/e4666cac-f77f-4806-afb4-216feef562d5)
