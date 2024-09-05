@@ -29,7 +29,7 @@ In combination with that incident with the code which as a child intrigued me an
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/aristeidis-stagkos-295529271/](https://www.linkedin.com/in/aristeidis-stagkos-295529271/).
 
-- ⚡ Fun fact **I really enjoy writing code and focusing on what will benefit me my colleagues and my projects**<br>
+- ⚡ Fun fact **I really enjoy writing code and focusing on what will benefit me my colleagues and my projects**.<br>
 
  <br>
 
