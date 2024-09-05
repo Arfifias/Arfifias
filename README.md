@@ -19,7 +19,7 @@ In combination with that incident with the code which as a child intrigued me an
 
 - 🔭 I recently finished college, and to be more specific I finished **Metropolitan College** and soon to graduate in November 2024.
 
-- 👯 I’m looking to collaborate at any time **With any project** which will intrigue me.
+- 👯 I’m looking to collaborate at any time **with any project** which will intrigue me.
 
 - 🤝 I’m looking to help with project ideas **If somebody needs ideas he or she should contact me but please be creative**.
 
