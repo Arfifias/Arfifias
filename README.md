@@ -13,26 +13,24 @@
 <br>
 
 <p>As a young adult and a developer,my main motive is to make a game that it will create a new genre of games.From a young age I started playing games and in primary school my teacher in 4th grade showed me in a lesson some lines of code in Java.Back in the day it was hard for me to understand lines of code because I was too young and my mother tongue was not english it was actually Greek.But as time went by I learnt to code and I also I learnt english to the maximum level possible.
-In combination with that incident with the code which as a child intrigued me and with video games in my life,my dream job was to become a great game developer.That's why I chose this road in my crossroads of my future career.And I finally accomplished my goal after 15een years(in my early 20s).</p><br>
+In combination with that incident with the code which as a child intrigued me and with video games, I decided to start that chapter in my life which is called software development and now since I am about to graduate it's at it's peak. Mainly I code in Backend languages but there is no mistake in any language because everything has it's uses.</p><br>
 
 
 
-- 🔭 I’m currently studying in a College,**Metropolitan College** to be spesific and learning python,command prompt and C++ please enjoy :)
+- 🔭 I recently finished college, and to be more specific I finished **Metropolitan College** and soon to graduate in November 2024.
 
-- 👯 I’m looking to collaborate at any time **With any project**
+- 👯 I’m looking to collaborate at any time **With any project** which will intrigue me.
 
-- 🤝 I’m looking to help with project ideas **If somebody needs ideas he or she should contact me**
+- 🤝 I’m looking to help with project ideas **If somebody needs ideas he or she should contact me but please be creative**.
 
-- 👨‍💻 All of my projects are available at [https://github.com/Arfifias](https://github.com/Arfifias)
+- 👨‍💻 All of my projects are available at [https://github.com/Arfifias](https://github.com/Arfifias).
 
-- 📫 How to reach me **astagkos21a@amcstudent.edu.gr**
-- Join my discord server [https://discord.com](https://discord.gg/4DBaqX9Z)
+- 📫 How to reach me **aristeidisstagkos21203@gmail.com**.
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/aristeidis-stagkos-295529271/](https://www.linkedin.com/in/aristeidis-stagkos-295529271/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/aristeidis-stagkos-295529271/](https://www.linkedin.com/in/aristeidis-stagkos-295529271/).
 
-- ⚡ Fun fact **I enjoy writing code**<br>
-- By the way I would like to make friends in coding so apart from projects please contact me because I am alone in this part of my life in other means my job so please follow me and let's rock baby!!!
-- I am currently learning C++ for Unreal Engine!!!
+- ⚡ Fun fact **I really enjoy writing code and focusing on what will benefit me my colleagues and my projects**<br>
+
  <br>
 
 <h3 align="left">Languages and Tools:</h3>
