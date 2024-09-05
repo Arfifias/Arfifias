@@ -5,7 +5,7 @@
 
 
 
-<p align="center">Currently a loner developer with very few partners if you want contact me in Linkedin</p><br><br>
+<p align="center">Currently a Backend Developer who loves writing code!!!</p><br><br>
 <p align="center">Do not forget to AMP IT UP</p><br>
 
 
