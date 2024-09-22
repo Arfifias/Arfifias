@@ -12,7 +12,7 @@
 
 <br>
 
-<p>As a young adult and a developer,my main motive is to make a project that will create a new genre of applications or games. Back in the day it was hard for me to understand lines of code because I was too young and my mother tongue was not english it was actually Greek. But as time went by I learnt to code and I also I learnt english to the maximum level possible. Afterall I decided to start that chapter in my life which is called software development and now it's at it's peak. Mainly I code in Backend languages but there is no mistake in any language because everything has it's uses.</p><br>
+<p>As a young adult and a developer,my main motive is to make a project that will create a new genre of applications or games. Back in the day it was hard for me to understand lines of code because I was too young and my mother tongue was not english it was actually Greek. But as time went by I learnt to code and also I learnt english to the maximum level possible. Afterall I decided to start that chapter in my life which is called software development and now it's at it's peak. Mainly I code in Backend languages but there is no mistake in any language because everything has it's uses.</p><br>
 
 
 
