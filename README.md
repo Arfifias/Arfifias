@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aristeidis Stagkos</h1>
 <h3 align="center">Back End Developer</h3><br>
 
-![Arfifias (1)](https://github.com/user-attachments/assets/8abe8370-e7d1-4493-bf3a-8ded735fa584)
+
+![Arfifias (1) (1)](https://github.com/user-attachments/assets/c10aca3c-6134-41e2-a271-3c6f94a14282)
 
 <br>
 
