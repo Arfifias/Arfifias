@@ -11,7 +11,7 @@
 
 
 
-<p align="center">Currently a Backend Developer who loves writing code!!!</p><br><br>
+<p align="center">Currently a Full Stack Developer who loves writing code!!!</p><br><br>
 <p align="center">Do not forget to AMP IT UP</p><br>
 
 
