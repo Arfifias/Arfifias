@@ -7,7 +7,7 @@
 
 
 
-<p align="center">Currently a 2D Game Developer who loves writing code!!!</p><br><br>
+<p align="center">Currently a 2D Game Developer who likes writing code!!!</p><br><br>
 <p align="center">Do not forget to AMP IT UP</p><br>
 
 
