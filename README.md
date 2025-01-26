@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aristeidis Stagkos</h1>
 <h3 align="center">2D Game Developer</h3><br>
-
-
-![Arfifias (1) (1)](https://github.com/user-attachments/assets/c10aca3c-6134-41e2-a271-3c6f94a14282)
-
 <br>
 
 
@@ -11,7 +7,7 @@
 
 
 
-<p align="center">Currently a Full Stack Developer who loves writing code!!!</p><br><br>
+<p align="center">Currently a 2D Game Developer who loves writing code!!!</p><br><br>
 <p align="center">Do not forget to AMP IT UP</p><br>
 
 
