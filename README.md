@@ -49,9 +49,6 @@
  
  <hr>
  
-![ezgif com-resize (1)](https://github.com/Arfifias/Arfifias/assets/115788364/f8cea252-71e5-4df4-82e7-677207e8f212)
-![ezgif com-resize (3)](https://github.com/Arfifias/Arfifias/assets/115788364/e4666cac-f77f-4806-afb4-216feef562d5)
-![ezgif com-resize (6)](https://github.com/Arfifias/Arfifias/assets/115788364/1fb0b562-b8f1-4135-809e-6164c85cc56c)
 
 
 
