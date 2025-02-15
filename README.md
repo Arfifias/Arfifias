@@ -16,7 +16,7 @@
 
 <p>As a young adult and a developer,my main motive is to make a project that will create a new genre of applications or games. Back in the day it was hard for me to understand lines of code because I was too young and my mother tongue was not english it was actually Greek. But as time went by I learnt to code and also I learnt english to the maximum level possible. Afterall I decided to start that chapter in my life which is called software development and now it's at it's peak. Mainly I code in Backend languages but there is no mistake in any language because everything has it's uses. I am currently working as a hardware engineer and also I am responsible for printer service so I hope that justifies my absence....I am not looking for excuses since I am now certified Backend Developer....but really the industry hasn't given me much of a choice because the process of recruitment in software development is too <b>MELODRAMATIC</b>....like watching a movie belonging to drama genre...... </p><br>
 
-<p>I am still working on learning stuff about 2D game development and also trying to learn how to properly mod games...I also work the last couple of months so I have limited time in order to proceed in deep learning new technologies in programming!!!</p>
+<p>I am still working on learning stuff about 2D game development and also trying to learn how to properly mod games...I also found a job as a hardware engineer the last couple of months and have been working ever since, so I have limited time in order to proceed in deep learning new technologies in programming!!!</p><br>
 
 
 
